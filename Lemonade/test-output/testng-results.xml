@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-18T14:17:29 EDT" name="Default suite" finished-at="2024-09-18T14:22:59 EDT" duration-ms="330402">
+    <groups>
+    </groups>
+    <test started-at="2024-09-18T14:17:29 EDT" name="Default test" finished-at="2024-09-18T14:22:59 EDT" duration-ms="330402">
+      <class name="com.lemonade.GenericTests">
+        <test-method signature="genericTest()[pri:0, instance:com.lemonade.GenericTests@654f0d9c]" started-at="2024-09-18T14:17:29 EDT" name="genericTest" finished-at="2024-09-18T14:22:59 EDT" duration-ms="330384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genericTest -->
+      </class> <!-- com.lemonade.GenericTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
